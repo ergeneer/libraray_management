@@ -1,4 +1,4 @@
-# libraray_management
+# Akbank python bootcamp global aı library management
 Projemede ; kullanıcıların kütüphanede bulunan kitapları listeleme, kitap ekleme, kitap silme, kitap bilgilerini güncelleme ve çıkış yapma gibi temel işlevleri gerçekleştirebilmeleri sağlanmaktadır.Kullanıcıdan inputa göre bu işleveler gerçekleştirilir.
 
 Kitap listeme (lists_books) fonksiyonunda kütüphanede kitap mevcut ise kitaplar listelenir yoksa listelenmez.
